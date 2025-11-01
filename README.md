@@ -1,11 +1,9 @@
 # NVIDIA_DLI
 
-#1. SD CARD BURNING (이미지 굽기)
-
-
+#1. SD CARD Burning (이미지 굽기)
 <img width="758" height="483" alt="image" src="https://github.com/user-attachments/assets/2deec52d-1197-44e8-9d17-a095fa313a33" />
 
-
+#2. Ubuntu Install
 <img width="801" height="437" alt="image" src="https://github.com/user-attachments/assets/0b30045a-cb63-4094-8e32-254b9883a4bc" />
 
 <img width="1362" height="782" alt="image" src="https://github.com/user-attachments/assets/43fa737d-fc7c-410e-8079-13345c08a0cf" />
@@ -36,7 +34,33 @@
 
 <img width="1242" height="728" alt="image" src="https://github.com/user-attachments/assets/b2ba81da-37ed-42e8-8d9e-db807785ea3f" />
 
+절차를 마치면 reboot가 자동으로 되고 해당 화면으로 켜진다. (준비 끝)
 <img width="1246" height="740" alt="image" src="https://github.com/user-attachments/assets/570c3196-0c9d-4323-9495-dbc5a4bd590d" />
 
 
-#2. 
+#3. Python3 Install
+jetson-stats-4.2.3이 써진 것을 확인한다.
+<img width="731" height="459" alt="image" src="https://github.com/user-attachments/assets/c34c9596-1359-4e18-bb1c-8419fe46a686" />
+
+
+#4. Camera Install & Setting
+<img width="577" height="458" alt="image" src="https://github.com/user-attachments/assets/3590aab8-7215-49f7-9099-4ce6ceeafb9c" />
+
+<img width="1271" height="716" alt="image" src="https://github.com/user-attachments/assets/b4f4b2dd-0748-4f4c-8b42-62fc01ebbdfd" />
+
+<img width="1279" height="723" alt="image" src="https://github.com/user-attachments/assets/60d1c675-3448-4802-8fcc-622eb622adad" />
+
+#5. Hangul Install
+참고링크: https://driz2le.tistory.com/253
+
+<img width="1271" height="717" alt="image" src="https://github.com/user-attachments/assets/5c8ae7cc-82c2-448d-b880-cdf0ec319c0d" />
+
+<img width="1278" height="713" alt="image" src="https://github.com/user-attachments/assets/8311bb8c-3d1e-442d-a488-b61e23dd320c" />
+
+#6. DLI docker Install
+
+* Headless Mode
+  Headless Mode인 경우, Jetson은 모니터나 키보드가 필요하지 않다.
+  gui 없이 Jetson의 화면은 검정색이 되며, 이를 '헤드리스 모드'라고 한다.
+  Jetson Nano가 처음 부팅될 때 스크립트를 통해 사용자는 사용자 이름과 암호, 언어, 시간대 등을 설정할 수 있다.
+  
