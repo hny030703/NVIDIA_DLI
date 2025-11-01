@@ -3,6 +3,8 @@
 #1. SD CARD Burning (이미지 굽기)
 <img width="758" height="483" alt="image" src="https://github.com/user-attachments/assets/2deec52d-1197-44e8-9d17-a095fa313a33" />
 
+<img width="989" height="585" alt="image" src="https://github.com/user-attachments/assets/3781982b-6c37-4154-8a8e-efc36dfee848" />
+
 #2. Ubuntu Install
 <img width="801" height="437" alt="image" src="https://github.com/user-attachments/assets/0b30045a-cb63-4094-8e32-254b9883a4bc" />
 
